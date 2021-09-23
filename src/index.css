@@ -7,6 +7,60 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
+.Clouds{
+  background: url('assets/clouds.jpg') no-repeat  center center/cover;
+} 
+
+.Clear{
+  background: url('assets/clear.jpeg') no-repeat center center/cover;
+}
+
+.Mist{
+  background: url('assets/mist.jpg') no-repeat center center/cover;
+}
+
+.Smoke{
+   background: url('assets/smoke.jpg') no-repeat center center/cover;
+}
+
+.Haze{
+   background: url('assets/haze.jpg') no-repeat center center/cover;
+}
+
+.Dust{
+   background: url('assets/dust.jpg') no-repeat center center/cover;
+}
+
+.Fog{
+   background: url('assets/fog.png') no-repeat center center/cover;
+}
+
+.Sand{ 
+   background: url('assets/sand.jpg') no-repeat center center/cover;
+}
+
+/* .Ash{
+}
+
+.Tornado{
+} */
+
+.Snow{
+  background: url('assets/snow.jpg') no-repeat center center/cover;
+}
+
+.Rain{
+   background: url('assets/rain.jpg') no-repeat center center/cover;
+}
+
+.Drizzle{
+   background: url('assets/drizzle.jpg') no-repeat center center/cover; 
+}
+
+.Thunderstorm{
+   background: url('assets/thunderstorm.jpg') no-repeat center center/cover;
+}
+
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
