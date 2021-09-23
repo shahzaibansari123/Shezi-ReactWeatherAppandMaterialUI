@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Shezi-ReactWeatherAppandMaterialUI/static/css/main.446e9fca.chunk.css",
+    "main.js": "/Shezi-ReactWeatherAppandMaterialUI/static/js/main.f3cb0710.chunk.js",
+    "main.js.map": "/Shezi-ReactWeatherAppandMaterialUI/static/js/main.f3cb0710.chunk.js.map",
+    "runtime-main.js": "/Shezi-ReactWeatherAppandMaterialUI/static/js/runtime-main.0562e080.js",
+    "runtime-main.js.map": "/Shezi-ReactWeatherAppandMaterialUI/static/js/runtime-main.0562e080.js.map",
+    "static/js/2.71d2d5da.chunk.js": "/Shezi-ReactWeatherAppandMaterialUI/static/js/2.71d2d5da.chunk.js",
+    "static/js/2.71d2d5da.chunk.js.map": "/Shezi-ReactWeatherAppandMaterialUI/static/js/2.71d2d5da.chunk.js.map",
+    "static/js/3.e7705d0d.chunk.js": "/Shezi-ReactWeatherAppandMaterialUI/static/js/3.e7705d0d.chunk.js",
+    "static/js/3.e7705d0d.chunk.js.map": "/Shezi-ReactWeatherAppandMaterialUI/static/js/3.e7705d0d.chunk.js.map",
+    "index.html": "/Shezi-ReactWeatherAppandMaterialUI/index.html",
+    "static/css/main.446e9fca.chunk.css.map": "/Shezi-ReactWeatherAppandMaterialUI/static/css/main.446e9fca.chunk.css.map",
+    "static/js/2.71d2d5da.chunk.js.LICENSE.txt": "/Shezi-ReactWeatherAppandMaterialUI/static/js/2.71d2d5da.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/Shezi-ReactWeatherAppandMaterialUI/static/media/thunderstorm.a20c73b9.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0562e080.js",
+    "static/js/2.71d2d5da.chunk.js",
+    "static/css/main.446e9fca.chunk.css",
+    "static/js/main.f3cb0710.chunk.js"
+  ]
+}
